@@ -15,9 +15,12 @@ Get Track's Audio Features and Get Tracks' Audio Features.
 Get Track's Audio Analysis.
 
 There are two main goals on this project.
+
 Goal #1: To explore which features influence the Valence: By using inferential statistic methods to study how features (track and possibly audio) influence valence.
 I am trying to find the best possible model for explaining the valence based on the features that you find significant.
 
 Goal #2: Predict Valence: By using Machine Learning techniques to predict valence based on track features.
 There are both neural network and non-neural network techniques used on this project. This happened of course in order to explore ore techniques and expand my skillset,
 but at the same time to understand the power of the NNs.
+
+This project was developed under AUEB's Applied Machine Learning course during the Winter Semester 2021-2022.
