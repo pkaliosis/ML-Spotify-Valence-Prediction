@@ -10,9 +10,9 @@ The project's task is to untangle the mystery behind valence and propose how thi
 
 Spotify offers the following information that have been releveant to the task:
 
-Get Track's Audio Features and Get Tracks' Audio Features.
+-Get Track's Audio Features and Get Tracks' Audio Features.
 
-Get Track's Audio Analysis.
+-Get Track's Audio Analysis.
 
 There are two main goals on this project.
 
